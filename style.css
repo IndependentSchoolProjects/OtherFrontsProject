@@ -27,10 +27,14 @@ li, p {
 
 /*Divs*/
 .bg1 {
-    background-color: rgb(0, 151, 54);   
+    background-color: rgb(0, 151, 54); 
+    margin: auto;
+    width: 50%;
 }
 
 .bg2 {
     background-color: rgb(0, 56, 184);
     text-align: center;
+    margin: auto;
+    width: 50%;
 }
